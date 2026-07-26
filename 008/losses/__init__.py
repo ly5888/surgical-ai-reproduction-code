@@ -1,0 +1,2 @@
+from .discrepancy_loss import DiscrepancyLoss
+from .softmax_entropy import SoftmaxEntropyLoss
