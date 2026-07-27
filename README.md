@@ -6,10 +6,10 @@ This repository contains reproduction code for four surgical AI studies.
 
 | Project | Task |
 |---|---|
-| 008 | MUTA-based surgical image segmentation |
-| 017 | Sum-of-Checks reasoning for surgical safety |
-| 061 | VitalDB intraoperative hypotension prediction |
-| 080 | ESWL treatment outcome prediction |
+| Multi-View Test-Time Adaptation for Semantic Segmentation in Clinical Cataract Surgery (2025) | MUTA-based surgical image segmentation |
+| Sum-of-Checks: structured reasoning for surgical safety with large vision-language models (2026) | Sum-of-Checks reasoning for surgical safety |
+| A Comprehensive Framework for the Prediction of Intra-Operative Hypotension (2026) | VitalDB intraoperative hypotension prediction |
+| Interpretable machine learning prediction of Extracorporeal Shock Wave Lithotripsy outcomes for urinary stones: A retrospective cohort study (2025) | ESWL treatment outcome prediction |
 
 ## Notes
 
